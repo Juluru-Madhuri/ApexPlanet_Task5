@@ -30,7 +30,7 @@ It is an Android application built with *Kotlin* and *Jetpack Compose, integrate
 | ![Login](screenshots/login.png) | ![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_dashboard.png) | ![Notes](screenshots/notes.png) | ![Attendance](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_attendance.png) |
 
 *Firebase Console Users*  
-![Firebase Users](screenshots/firebase_users.png)  
+![Firebase Users](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_firebase.png)  
 
 ---
 
