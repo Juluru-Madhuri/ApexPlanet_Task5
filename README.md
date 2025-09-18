@@ -27,7 +27,7 @@ It is an Android application built with *Kotlin* and *Jetpack Compose, integrate
 
 | Login | Dashboard | Notes | Attendance |
 |-------|-----------|-------|------------|
-| ![Login](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_login.png) | ![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_dashboard.png) | ![Notes](screenshots/notes.png) | ![Attendance](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_attendance.png) |
+| ![Login](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_login.png) | ![Dashboard](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_dashboard.png) | ![Notes](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_notes.png) | ![Attendance](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_attendance.png) |
 
 *Firebase Console Users*  
 ![Firebase Users](https://github.com/Juluru-Madhuri/ApexPlanet_Task5/blob/main/task5_firebase.png)  
