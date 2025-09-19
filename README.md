@@ -39,7 +39,7 @@ It is an Android application built with *Kotlin* and *Jetpack Compose, integrate
 - *Task 2:* [https://www.linkedin.com/posts/activity-7366818869186863105-OOvF?utm_source=share&utm_medium=member_android&rcm=ACoAAF3S3m8ByUXqofcMLgOVSIUh_ylhIcTyDLA]  
 - *Task 3:* [https://www.linkedin.com/posts/activity-7369696035490713600-wEqN?utm_source=share&utm_medium=member_android&rcm=ACoAAF3S3m8ByUXqofcMLgOVSIUh_ylhIcTyDLA]  
 - *Task 4:* [https://www.linkedin.com/posts/activity-7370850967162073088-7GSk?utm_source=share&utm_medium=member_android&rcm=ACoAAF3S3m8ByUXqofcMLgOVSIUh_ylhIcTyDLA]  
-- *Final Demo (Task 5):* [LinkedIn Post Link]  
+- *Final Demo (Task 5):* [https://www.linkedin.com/posts/activity-7374828821205696512-L2QU?utm_source=share&utm_medium=member_android&rcm=ACoAAF3S3m8ByUXqofcMLgOVSIUh_ylhIcTyDLA]  
 
 ---
 
